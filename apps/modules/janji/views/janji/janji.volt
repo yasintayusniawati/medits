@@ -11,7 +11,7 @@
                         <div class="block-content">
                             <div style="padding-bottom: 25px">
                                 <a href="" data-toggle="modal" data-target="#modal-top4">
-                                    <button type="button" class="btn btn-sm btn-success">
+                                    <button type="button" style="background-color: #73b4db" class="btn btn-sm btn-success">
                                         <i class="fa fa-plus mr-2"></i>Buat Janji
                                     </button>
                                 </a>

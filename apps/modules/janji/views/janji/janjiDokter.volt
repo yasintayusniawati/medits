@@ -4,7 +4,7 @@
     {{flashSession.output()}}
     <div class="block block-themed block-rounded">
         <div class="block-header bg-gd-sea">
-            <h3 class="block-title">Janji Yang Belum</h3>
+            <h3 class="block-title">Inbox</h3>
         </div>
         <!-- Bordered Table -->
         <div class="block">
@@ -12,7 +12,7 @@
                 <table class="table table-bordered table-vcenter">
                     <thead>
                         <tr>
-                            <th class="text-center" style="width: 50px;">#</th>
+                            <th class="text-center" style="width: 50px;">No</th>
                             <th style="width: 30%;">Pasien</th>
                             <th class="d-none d-sm-table-cell" style="width: 15%;">Tanggal</th>
                             <th class="d-none d-sm-table-cell" style="width: 15%;">Status</th>
@@ -52,7 +52,7 @@
     </div>
     <div class="block block-themed block-rounded">
         <div class="block-header bg-gd-sea">
-            <h3 class="block-title">Janji yang sudah</h3>
+            <h3 class="block-title">Sudah Terkonfirmasi</h3>
         </div>
         <!-- Bordered Table -->
         <div class="block">
@@ -60,7 +60,7 @@
                 <table class="table table-bordered table-vcenter">
                     <thead>
                         <tr>
-                            <th class="text-center" style="width: 50px;">#</th>
+                            <th class="text-center" style="width: 50px;">No</th>
                             <th>Pasien</th>
                             <th class="d-none d-sm-table-cell" style="width: 15%;">Tanggal</th>
                             <th class="d-none d-sm-table-cell" style="width: 15%;">Status</th>

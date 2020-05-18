@@ -10,7 +10,7 @@
                         <div class="block-content">
                             <div style="padding-bottom: 25px">
                                 <a href="" data-toggle="modal" data-target="#modal-top2">
-                                    <button type="button" class="btn btn-sm btn-success">
+                                    <button type="button" style="background-color: #73b4db"class="btn btn-sm btn-success">
                                         <i class="fa fa-plus mr-2"></i>Tambah Data Dokter
                                     </button>
                                 </a>
@@ -22,7 +22,7 @@
                                         <th>Name</th>
                                         <th class="d-none d-sm-table-cell" style="width: 15%;">Poli</th>
                                         <th class="d-none d-sm-table-cell" style="width: 30%;">Alamat</th>
-                                        <th class="text-center" style="width: 100px;">Actions</th>
+                                        
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -35,16 +35,7 @@
                                             <span class="badge badge-info">{{dokter.poli}}</span>
                                         </td>
                                         <td>{{dokter.alamat}}</td>
-                                        <td class="text-center">
-                                            <div class="btn-group">
-                                                <button type="button" class="btn btn-sm btn-secondary js-tooltip-enabled" data-toggle="tooltip" title="" data-original-title="Edit">
-                                                    <i class="fa fa-pencil"></i>
-                                                </button>
-                                                <button type="button" class="btn btn-sm btn-secondary js-tooltip-enabled" data-toggle="tooltip" title="" data-original-title="Delete">
-                                                    <i class="fa fa-times"></i>
-                                                </button>
-                                            </div>
-                                        </td>
+                                        
                                     </tr>
                                     {% set no = no + 1 %}
                                     {% endfor %}
