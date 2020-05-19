@@ -82,7 +82,7 @@ class JanjiController extends Controller
         $janji = Janji::findFirst($id);
         $janji->status = "Selesai";
         $janji->save();
-        $this->flashSession->success('Janji Selesai Dilaksanakan');
+        $this->flashSession->success('Janji Selesai Disetujui');
         $this->response->redirect('/janji/janji_dokter');
     }
 }

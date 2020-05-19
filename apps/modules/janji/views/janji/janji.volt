@@ -24,7 +24,7 @@
                                         <th class="d-none d-sm-table-cell" style="width: 30%;">Dokter</th>
                                         <th class="d-none d-sm-table-cell" style="width: 15%;">Tanggal</th>
                                         <th class="d-none d-sm-table-cell" style="width: 15%;">Status</th>
-                                        <th class="text-center" style="width: 100px;">Actions</th>
+                                        <th class="text-center" style="width: 100px;">Batalkan</th>
                                     </tr>
                                 </thead>
                                 <tbody>

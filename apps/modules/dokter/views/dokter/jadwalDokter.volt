@@ -13,7 +13,7 @@
                             <div style="padding-bottom: 25px">
                                 <a href="" data-toggle="modal" data-target="#modal-top3">
                                     <button type="button" style="background-color: #73b4db" class="btn btn-sm btn-success">
-                                        <i class="fa fa-plus mr-2"></i>Tambah Jadwal Dokter
+                                        <i class="fa fa-plus mr-2"></i>Input Jadwal
                                     </button>
                                 </a>
                             </div>

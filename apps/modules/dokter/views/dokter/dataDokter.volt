@@ -63,19 +63,19 @@
                     <div class="form-group row">
                         <div class="col-12">
                             <label for="signup-username">Nama</label>
-                            <input type="text" class="form-control" id="signup-username" name="nama" placeholder="Nama ...">
+                            <input type="text" class="form-control" id="signup-username" name="nama" placeholder="Nama">
                         </div>
                     </div>
                     <div class="form-group row">
                         <div class="col-12">
                             <label for="signup-email">Email</label>
-                            <input type="email" class="form-control" id="signup-email" name="email" placeholder="Email ...">
+                            <input type="email" class="form-control" id="signup-email" name="email" placeholder="Email">
                         </div>
                     </div>
                     <div class="form-group row">
                         <div class="col-12">
                             <label for="signup-password">Password</label>
-                            <input type="password" class="form-control" id="signup-password" name="password" placeholder="Password ...">
+                            <input type="password" class="form-control" id="signup-password" name="password" placeholder="Password">
                         </div>
                     </div>
                     <div class="form-group row">
